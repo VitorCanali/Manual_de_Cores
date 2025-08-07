@@ -8,7 +8,7 @@ A identidade visual do Itaú é fortemente marcada pelo uso de cores vibrantes e
 
 Azul Itaú – Cor institucional, símbolo de solidez e confiança.
 
-Padrão: #002776
+Padrão: #267FE3
 
 Variações: tons mais escuros ou mais claros conforme o contexto.
 
@@ -20,7 +20,7 @@ Variações: podem incluir tons mais suaves ou intensos.
 
 Cinza Neutro – Usado para equilibrar e destacar outros elementos visuais.
 
-Exemplos: #403B3B, #D3DDE4
+Exemplos: #F2F5F7, #D3DDE4
 
 Cores Funcionais:
 
